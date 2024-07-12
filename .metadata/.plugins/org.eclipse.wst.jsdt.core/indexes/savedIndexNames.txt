@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+/Users/pankx/Desktop/jdbcproject/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-3930994289.index
-889675950.index
-3719538967.index
-1047020894.index
-2684131667.index
-3018193464.index
